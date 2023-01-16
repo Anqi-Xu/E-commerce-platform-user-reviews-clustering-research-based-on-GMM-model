@@ -1,5 +1,5 @@
 # E-commerce-platform-user-reviews-clustering-research-based-on-GMM-model
-This paper focuses on the algorithmic study of Gaussian mixture clustering model and the practical application of Gaussian mixture clustering model.
+This project focuses on the algorithmic study of Gaussian mixture clustering model and the practical application of Gaussian mixture clustering model.
 
 Firstly, we crawled the user reviews of laptops in Jingdong Mall through Python crawler technology. The original review data of 185289 items were obtained. After completing the related pre-processing work, we got 147,586 valid reviews, including 9033 reviews of Huawei laptops and 7321 reviews of Apple laptops.
 
